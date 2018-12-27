@@ -1,2 +1,0 @@
-i'm learning devops
- we are on git
